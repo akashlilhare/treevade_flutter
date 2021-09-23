@@ -1,8 +1,8 @@
 
 
 import 'package:flutter/material.dart';
-import 'package:treevade_flutter/constants/constants.dart';
-import 'package:treevade_flutter/screens/second_screen/second_screen.dart';
+import 'package:treevade/constants/constants.dart';
+import 'package:treevade/screens/second_screen/second_screen.dart';
 
 class MainHeaderSection extends StatefulWidget {
   const MainHeaderSection({Key? key}) : super(key: key);

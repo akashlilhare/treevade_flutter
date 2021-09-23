@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:treevade_flutter/constants/constants.dart';
+import 'package:treevade/constants/constants.dart';
 
 class PriceFilter extends StatefulWidget {
   const PriceFilter({Key? key}) : super(key: key);

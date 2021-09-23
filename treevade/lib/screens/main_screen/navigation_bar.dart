@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'package:treevade_flutter/constants/constants.dart';
+import 'package:treevade/constants/constants.dart';
 class NavigationBar extends StatelessWidget {
   const NavigationBar({Key? key}) : super(key: key);
 

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:treevade_flutter/constants/constants.dart';
-import 'package:treevade_flutter/models/other_filters_model.dart';
+import 'package:treevade/constants/constants.dart';
+import 'package:treevade/models/other_filters_model.dart';
 
 class OtherFilter extends StatefulWidget {
   const OtherFilter({Key? key}) : super(key: key);

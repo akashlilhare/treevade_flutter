@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:treevade_flutter/constants/constants.dart';
+import 'package:treevade/constants/constants.dart';
 
 import 'main_header_secation.dart';
 import 'main_screen_section.dart';

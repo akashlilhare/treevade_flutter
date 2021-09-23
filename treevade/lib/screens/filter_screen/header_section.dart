@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:treevade_flutter/constants/constants.dart';
-import 'package:treevade_flutter/models/brand_model.dart';
+import 'package:treevade/constants/constants.dart';
+import 'package:treevade/models/brand_model.dart';
 
 
 class FilterHeaderSection extends StatelessWidget {

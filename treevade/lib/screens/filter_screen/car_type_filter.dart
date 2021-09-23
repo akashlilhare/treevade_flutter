@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:treevade_flutter/constants/constants.dart';
-import 'package:treevade_flutter/models/car_type_model.dart';
+import 'package:treevade/constants/constants.dart';
+import 'package:treevade/models/car_type_model.dart';
 
 class CarTypeFilter extends StatefulWidget {
   const CarTypeFilter({Key? key}) : super(key: key);

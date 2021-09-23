@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
-import 'package:treevade_flutter/constants/constants.dart';
+import 'package:treevade/constants/constants.dart';
 
-import 'package:treevade_flutter/screens/filter_screen/header_section.dart';
-import 'package:treevade_flutter/screens/filter_screen/car_type_filter.dart';
-import 'package:treevade_flutter/screens/filter_screen/price_filter.dart';
-import 'package:treevade_flutter/screens/filter_screen/seats_filter.dart';
+import 'package:treevade/screens/filter_screen/header_section.dart';
+import 'package:treevade/screens/filter_screen/car_type_filter.dart';
+import 'package:treevade/screens/filter_screen/price_filter.dart';
+import 'package:treevade/screens/filter_screen/seats_filter.dart';
 
 import 'other_filers.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:toggle_switch/toggle_switch.dart';
-import 'package:treevade_flutter/constants/constants.dart';
-import 'package:treevade_flutter/screens/filter_screen/filter_screen.dart';
+import 'package:treevade/constants/constants.dart';
+import 'package:treevade/screens/filter_screen/filter_screen.dart';
 
 class SecondScreenHeader extends StatelessWidget {
   final String title;

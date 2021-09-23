@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:treevade_flutter/screens/main_screen/main_screen.dart';
+import 'package:treevade/screens/main_screen/main_screen.dart';
 import 'screens/filter_screen/filter_screen.dart';
 import 'constants/constants.dart';
 
